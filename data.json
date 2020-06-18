@@ -1,0 +1,92 @@
+data = {
+    "resume": [{
+        "fullName": "Artyom Sazonov",
+        "position": "Junior Front-end Developer",
+        "email": "sazonau.artiom@yandex.by",
+        "emailMailto": "mailto:sazonau.artiom@yandex.by",
+        "sex": "male",
+        "map": "MINSK",
+        "coordinates": "https://www.google.com/maps/place/%D0%9C%D0%B8%D0%BD%D1%81%D0%BA/@53.8843138,27.3131922,10z/data=!3m1!4b1!4m5!3m4!1s0x46dbcfd35b1e6ad3:0xb61b853ddb570d9!8m2!3d53.9006011!4d27.558972",
+        "phone": "33 625 53 35",
+        "git": "https://github.com/artiomsazonov",
+        "lin": "https://www.linkedin.com/in/%D0%B0%D1%80%D1%82%D1%91%D0%BC-%D1%81%D0%B0%D0%B7%D0%BE%D0%BD%D0%BE%D0%B2-a79b5a196/",
+        "image": "photo.jpg"
+    }],
+    "section": [{
+            "title": "WORK EXPERIENCE",
+            "isOpen": false,
+            "items": [{
+                    "title": "LLC TD Komplekt",
+                    "subTitle": "Storekeeper",
+                    "age": "August 2018 - present"
+                },
+                {
+                    "title": "State institution - Zhdanovichskaya secondary school",
+                    "subTitle": "Teacher of Mathematics, Physics, Computer science",
+                    "age": "August 2017 - August 2018"
+                },
+                {
+                    "title": "State institution - Mezhisetskaya secondary school",
+                    "subTitle": "Teacher of Mathematics and Physics",
+                    "age": "August 2015 - August 2017"
+                }
+            ]
+        },
+        {
+            "title": "EDUCATION",
+            "isOpen": false,
+            "items": [{
+                    "title": "Mogilev State University named after A. Kuleshov",
+                    "subTitle": "Maths, Physics",
+                    "age": "2010 - 2015"
+                },
+                {
+                    "title": "SkillUp IT-Academy",
+                    "subTitle": "Front-end Developer",
+                    "age": "2019 - 2020"
+                }
+            ]
+        },
+        {
+            "title": "SKILLS",
+            "isOpen": false,
+            "items": [{
+                    "title": "Programming Languages",
+                    "subTitle": "JavaScript",
+                    "age": "Oct 2019 - present"
+                },
+                {
+                    "title": "Client Technologies",
+                    "subTitle": "HTML/DHTML/HTML5; CSS/CSS3; LESS/SASS; jQuery; Bootstrap; Gulp; Webpack",
+                    "age": "Ags 2019 - present"
+                },
+                {
+                    "title": "Version Control",
+                    "subTitle": "Git",
+                    "age": "Oct 2019 - present"
+                }
+            ]
+        },
+        {
+            "title": "TOOLS",
+            "isOpen": false,
+            "items": [{
+                    "title": "Visual Studio Code",
+                    "subTitle": "Сode editor",
+                    "age": "Ags 2019 - present"
+                },
+                {
+                    "title": "Photoshop",
+                    "subTitle": "Multifunctional graphic editor",
+                    "age": "2018 - present"
+                }
+            ]
+        }
+    ],
+    "record": [{
+        "title": "string",
+        "subTitle": "Приглашение на собеседование",
+        "from": "Artezio",
+        "to": "приглашаем Вас на собеседование в компанию"
+    }]
+}
