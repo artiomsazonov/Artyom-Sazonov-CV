@@ -44,6 +44,11 @@ data = {
                     "title": "SkillUp IT-Academy",
                     "subTitle": "Front-end Developer",
                     "age": "2019 - 2020"
+                },
+                {
+                    "title": "RS School",
+                    "subTitle": "JS/Front-end",
+                    "age": "2020 - present"
                 }
             ]
         },
@@ -86,7 +91,7 @@ data = {
     "record": [{
         "title": "string",
         "subTitle": "Приглашение на собеседование",
-        "from": "Artezio",
+        "from": "...",
         "to": "приглашаем Вас на собеседование в компанию"
     }]
 }
